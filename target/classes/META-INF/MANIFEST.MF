@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rest-fileupload-rp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rupa1
+Implementation-Vendor-Id: com.rest.fileupload.rp
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/rest-fileupload-rp/
+Created-By: Maven Integration for Eclipse
+
